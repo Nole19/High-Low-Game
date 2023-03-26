@@ -1,4 +1,4 @@
-# High_Low_game
+# High Low Game
 
 
 ## Table of Contents
@@ -10,7 +10,7 @@
 
 
 ## General Information
-- This is game where you can try your intuition and find out interesting facts about numbers
+This is game where you can try your intuition and find out interesting facts about numbers
 
 
 ## Technologies Used
@@ -18,9 +18,9 @@
 - Libraries: bs4, requests
 
 ## Features
-- This game getting some facts about number in the Internet
--After this creates 2 possobilities 
--You need to choose what is True 
+This game collecting some facts about number in the Internet
+After this creates 2 possibilities 
+You need to choose what is True 
 
 
 
